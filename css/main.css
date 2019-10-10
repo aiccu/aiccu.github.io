@@ -43,10 +43,6 @@ hr {
   padding: 0;
 }
 
-li{
-  margin: 10px 0;
-}
-
 audio,
 canvas,
 img,
@@ -150,7 +146,6 @@ ul.flat li {
   display: inline-block;
   list-style: none;
   margin-left: 0;
-  margin: 10px 0;
 }
 
 .prevent-collapse {
@@ -170,8 +165,7 @@ ul {
 }
 
 .introduction ul li {
-  margin-bottom: 5px;
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
 
 .introduction ul li p {
