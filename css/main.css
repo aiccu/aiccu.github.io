@@ -1,9 +1,9 @@
-/* Ubuntu, Ubuntu */
-@import url(https://fonts.googleapis.com/css?family=Ubuntu);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+/* Roboto, Roboto */
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   color: #333;
   line-height: 1.5;
@@ -95,7 +95,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Ubuntu, raleway, sans-serif;
+  font-family: Roboto, raleway, sans-serif;
   line-height: 1.2;
   color: #2ca243;
   font-weight: 100;
@@ -251,7 +251,7 @@ ul {
   /* color: #a00; */
   font-size: 14px;
   display: block;
-  font-family: "Ubuntu Mono";
+  font-family: "Roboto Mono";
   font-weight: bolder;
 }
 
@@ -259,7 +259,7 @@ ul {
   /* color: #a00; */
   /* font-size: 14px; */
   /* display: block; */
-  font-family: Ubuntu;
+  font-family: Roboto;
   /* font-weight: bolder; */
 }
 
@@ -276,7 +276,7 @@ ul {
 .email {
   /* color: #a00; */
   font-size: 16px;
-  font-family: "Ubuntu Mono";
+  font-family: "Roboto Mono";
   font-weight: bolder;
 }
 
@@ -300,13 +300,13 @@ ul {
 }
 
 .code_blog {
-    font-family: "Ubuntu Mono";
+    font-family: "Roboto Mono";
     font-size: 14px;
     margin: 0em .9em 0em;
 }
 
 .blog_cv {
-    font-family: "Ubuntu Mono";
+    font-family: "Roboto Mono";
     font-size: 17px;
     /* margin: 0em .9em 0em; */
 }
